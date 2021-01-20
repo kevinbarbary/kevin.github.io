@@ -1,2 +1,2 @@
-# kevin.github.io
-Kevin's GitHub Repo
+# kevinbarbary.github.io
+Kevin Barbary's GitHub Repo
