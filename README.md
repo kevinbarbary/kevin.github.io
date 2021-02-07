@@ -1,2 +1,2 @@
 # kevinbarbary.github.io
-Kevin Barbary's GitHub Repo
+[kevinbarbary.github.io](My GitHub Repo)
